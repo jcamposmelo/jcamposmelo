@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando com análise de dados **Análise de dados com Dashboards interativos**
+- 🔭 Atualmente estou trabalhando com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
 - 🌱 Atualmente estou aprendendo **Python e MySQL**
 
