@@ -21,3 +21,10 @@
 <a href="https://twitter.com/jorge_campos23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge_campos23" height="30" width="40" /></a>
 <a href="https://instagram.com/jcamposmelo_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcamposmelo_23" height="30" width="40" /></a>
 </p>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="jcamposmelo-AndroidStudio" height="30" width="40" src="<i class="devicon-androidstudio-plain"></i>">
+  <img align="center" alt="jcamposmelo-Kotlin" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+">
+</div>
