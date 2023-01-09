@@ -5,9 +5,9 @@
 
 - 🔭 Atualmente estou trabalhando com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
-- 🌱 Atualmente estou aprendendo **Python e MySQL**
+- 🌱 Atualmente estou aprendendo **Kotlin para desenvolvimento em Android**
 
-- 💬 Me pergunte sobre **Excel, Power BI, Data Base, SQL e Python**
+- 💬 Me pergunte sobre **Análise de dados em Excel, Power BI e MySQL**
 
 - 📫 Vc me encontrará **jcamposmelo@yahoo.com.br**
 
