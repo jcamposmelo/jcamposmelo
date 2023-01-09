@@ -2,6 +2,8 @@
 <h1 align="center">Oi, eu sou Jorge Campos</h1>
 <h3 align="center">Um apaixonado por análise de dados, power BI e banco de dados</h3>
 
+##
+
 <p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
 
 - 💻 Estou estudando **Análise e Desenvolvimento de Sistemas**, com previsão de formatura para 2023/2 🎉🎉🎉
@@ -15,6 +17,8 @@
 - 🔍 Vc me encontrará **jcamposmelo@yahoo.com.br**
 
 - ⚠ Sobre mim... [www.linkedin.com/in/campos-jorge](www.linkedin.com/in/campos-jorge)
+
+##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
