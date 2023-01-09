@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
 
-- 👌  Estou estudando Análise e Desenvolvimento de Sistemas, com previsão de formatura para 2023/2 🎉🎉🎉
+- 👌  Estou estudando **Análise e Desenvolvimento de Sistemas**, com previsão de formatura para 2023/2 🎉🎉🎉
 
 - 🔭 Trabalho com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
