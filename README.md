@@ -1,6 +1,7 @@
 ![Sem](https://user-images.githubusercontent.com/101723959/211382823-646375b5-d64d-4bff-8636-48dc699ae13f.jpg)
 <h1 align="center">Oi, eu sou Jorge Campos</h1>
 <h3 align="center">Um apaixonado por análise de dados, power BI e banco de dados</h3>
+<h3 align="center">Atualmente estou entrando de cabeça no desenvolvimento mobile</h3>
 
 ##
 
