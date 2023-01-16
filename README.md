@@ -58,7 +58,11 @@
 
 <h1 align="center"> MINHAS METAS PARA 2023 </h1>
 
+- [x] Aprimorar a lógica e entendimento dos algoritmos
+- [x] Aprender os princípios do Android
+- [ ] Desenvolver meu primeiro app em Android usando Kotlin
+- [ ] Desenvolver app em JAVA
 
-
+##
 
 
