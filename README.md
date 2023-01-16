@@ -60,8 +60,10 @@
 
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
+- [x] Entender a mecânica do Android Studio
 - [ ] Desenvolver meu primeiro app em Android usando Kotlin
 - [ ] Desenvolver app em JAVA
+- [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ##
 
