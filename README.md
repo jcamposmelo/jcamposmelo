@@ -15,7 +15,7 @@
 
 - 💬 Me pergunte sobre **Análise de dados em Excel, Power BI e MySQL**
 
-- 🔍 Vc me encontrará **jcamposmelo@yahoo.com.br**
+- 🔍 Vc me encontrará **jcamposmelo@yahoo.com.br ou https://discord.com/channels/Jorge%20Campos#7105**
 
 - ⚠ Sobre mim... [www.linkedin.com/in/campos-jorge](www.linkedin.com/in/campos-jorge)
 
