@@ -19,6 +19,8 @@
 
 - ⚠ Sobre mim... [www.linkedin.com/in/campos-jorge](www.linkedin.com/in/campos-jorge)
 
+<a href="br.qr-code-generator.com/a1/?gclid=CjwKCAiAzp6eBhByEiwA_gGq5Hbym8hjaUN_4p0PxVPB_EzP_ZMHhRbDaLd44ztzKiGuBuHF3vOiFxoCFwUQAvD_BwE&campaignid=11082198388&adgroupid=108043711905&cpid=7e7f773b-20c7-4e2f-b98e-5f408136bd9b&gclid=CjwKCAiAzp6eBhByEiwA_gGq5Hbym8hjaUN_4p0PxVPB_EzP_ZMHhRbDaLd44ztzKiGuBuHF3vOiFxoCFwUQAvD_BwE" border="0" style="cursor:default" rel="nofollow"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fjcamposmelo%2Fjcamposmelo%2Fedit%2Fmain%2FREADME.md&chs=180x180&choe=UTF-8&chld=L|2"></a>
+
 ##
 
 <h3 align="left">Connect with me:</h3>
