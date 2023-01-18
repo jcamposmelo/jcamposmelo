@@ -1,6 +1,6 @@
 ![Sem](https://user-images.githubusercontent.com/101723959/211382823-646375b5-d64d-4bff-8636-48dc699ae13f.jpg)
 <h1 align="center">Oi, eu sou Jorge Campos</h1>
-<h3 align="center">Trabalho com análise de dados, tratando, conectando e relacionando qualquer tipo de dados</h3>
+<h3 align="center">Trabalho com análise, tratamento, conexão e relacionamento de qualquer tipo de dados</h3>
 <h3 align="center">Atualmente estou entrando de cabeça no desenvolvimento mobile</h3>
 
 ##
