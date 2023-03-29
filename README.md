@@ -35,7 +35,7 @@
 
 <p align="left"> <a href="https://facebook.com/jorgecamposfotografia" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /></a> </p>
 
 <p align="left"> <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" /></a> </p>
 
