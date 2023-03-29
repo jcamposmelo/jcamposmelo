@@ -39,18 +39,6 @@
 
 ##
 
-<a href="https://github.com/jcamposmelo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/jcamposmelo/jcamposmelo.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=jcamposmelo.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-##
-
 <h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO </h1>
 
 <div style="display: inline_block"><br>
@@ -76,4 +64,6 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&layout=compact)](https://github.com/jcamposmelo/github-readme-stats)
+![jcamposmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=tokyonight&show_icons=true)
+
+![jcamposmelo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=tokyonight&show_icons=true)
