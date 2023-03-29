@@ -20,8 +20,6 @@
 
 - ⚠ Sobre mim... Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas. Dentre os quais, destaco as estratégias para uma gestão de compras mais eficiente, alinhamento do caixa com planejamento financeiro permitindo a visualização das movimentações. Desenvolvi diversos trabalhos com apuração e apresentação de dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
 
-<a href="br.qr-code-generator.com/a1/?gclid=CjwKCAiAzp6eBhByEiwA_gGq5Hbym8hjaUN_4p0PxVPB_EzP_ZMHhRbDaLd44ztzKiGuBuHF3vOiFxoCFwUQAvD_BwE&campaignid=11082198388&adgroupid=108043711905&cpid=7e7f773b-20c7-4e2f-b98e-5f408136bd9b&gclid=CjwKCAiAzp6eBhByEiwA_gGq5Hbym8hjaUN_4p0PxVPB_EzP_ZMHhRbDaLd44ztzKiGuBuHF3vOiFxoCFwUQAvD_BwE" border="0" style="cursor:default" rel="nofollow"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcampos-jorge%2F&chs=180x180&choe=UTF-8&chld=L|2"></a>
-
 - 🔍 Vc me encontrará **nos links logo abaixo**
 
 ##
