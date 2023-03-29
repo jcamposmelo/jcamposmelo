@@ -44,6 +44,7 @@
 <a href="https://github.com/jcamposmelo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=github-readme-stats&theme=buefy" />
 </a>
+
 <a href="https://github.com/jcamposmelo/jcamposmelo.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=jcamposmelo.github.io&theme=buefy" />
 </a>
