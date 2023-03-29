@@ -5,7 +5,9 @@
 
 ##
 
-<p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
+
+
+###
 
 - 💻 Estou estudando **Análise e Desenvolvimento de Sistemas**, com previsão de formatura para 2023/2 🎉🎉🎉
 
@@ -25,29 +27,37 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jorge_campos23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge_campos23" height="30" width="40" /></a>
-<a href="https://instagram.com/jcamposmelo_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jcamposmelo_23" height="30" width="40" /></a>
-</p>
+
+  <p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
+
+<p align="left"> <a href="https://instagram.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=instagram&style=for-the-badge" alt="jorge_campos23" /></a> </p>
+
+<p align="left"> <a href="https://facebook.com/jorgecamposfotografia" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" /></a> </p>
+
+<p align="left"> <a href="https://linkedin.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /></a> </p>
 
 ##
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=jcamposmelo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jcamposmelo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=jcamposmelo&show_icons=true" />
-</picture>
+<a href="https://github.com/jcamposmelo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/jcamposmelo/jcamposmelo.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcamposmelo&repo=jcamposmelo.github.io&theme=buefy" />
+</a>
+
+<br />
+
+<a href="https://twitter.com/jcamposmelo">
+  <img align="right" alt="Jorge Campos | Twitter" width="21px" src="https://raw.githubusercontent.com/jcamposmelo/jcamposmelo/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/jcamposmelo">
+  <img align="right" alt="Jorge Campos | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/jcamposmelo/jcamposmelo/master/assets/codesandbox.svg" />
+</a>
 
 ##
 
 <h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO </h1>
 
-</div>
 <div style="display: inline_block"><br>
    <img align="center" alt="jcamposmelo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="jcamposmelo-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
