@@ -13,9 +13,9 @@
 
 - 📊 Trabalho com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
-- ⭐ No momento estou aprendendo **Kotlin para desenvolvimento em Android**
+- ⭐ No momento estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
-- 💬 Me pergunte sobre **Análise de dados em Excel, Power BI e SQL**
+- 💬 Me pergunte sobre **Análise de dados, Data Warehouse, Power BI e SQL**
 
 
 - ⚠ Sobre mim... Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas. Dentre os quais, destaco as estratégias para uma gestão de compras mais eficiente, alinhamento do caixa com planejamento financeiro permitindo a visualização das movimentações. Desenvolvi diversos trabalhos com apuração e apresentação de dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
