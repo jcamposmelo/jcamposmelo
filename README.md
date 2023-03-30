@@ -21,7 +21,7 @@
 
 - 🔍 Vc me encontrará **nos links logo abaixo**
 
-##
+## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,7 @@
 
 ##
 
-<h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO </h1>
+<h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO 💻</h1>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="jcamposmelo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -52,7 +52,7 @@
 ##
 
 
-<h1 align="center"> MINHAS METAS PARA 2023 </h1>
+<h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
 
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
@@ -61,7 +61,7 @@
 - [ ] Desenvolver app em JAVA
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
-##
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)<br/>
