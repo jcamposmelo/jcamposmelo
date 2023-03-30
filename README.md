@@ -6,7 +6,6 @@
 ###
 
 
-
 ###
 
 - 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2023/2 🎉🎉🎉
