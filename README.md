@@ -57,8 +57,9 @@
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
 - [x] Entender a mecânica do Android Studio
+- [x] Desenvolver em JAVA
 - [ ] Desenvolver meu primeiro app em Android usando Kotlin
-- [ ] Desenvolver app em JAVA
+- [ ] Aprender outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ## 📊 GitHub Stats:
@@ -66,3 +67,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
