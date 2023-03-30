@@ -63,5 +63,6 @@
 
 ##
 
-![jcamposmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=tokyonight&show_icons=true)
-![jcamposmelo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
