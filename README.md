@@ -1,19 +1,8 @@
-
-
-
-###
-
+![25102927915124](https://user-images.githubusercontent.com/101723959/229225668-983fe497-6e38-4ceb-a665-61283d4bff1e.gif) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=E+esse+eh+meu+mundo!)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Games!+Boardgames!+Dev+Mobile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=E+esse+eh+meu+mundo!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Games!+Boardgames!+Tecnologia!)](https://git.io/typing-svg)
 
 <h1 align="center">Bora lá?</h1>
 <h2 align="center">Trabalho com análise, tratamento, conexão e relacionamento de dados</h2>
@@ -82,13 +71,10 @@
 - [ ] Aprender outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752">
+<h1 align="center"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752"></h1>
 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
