@@ -79,3 +79,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<h1 align="center"><img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="GitHub - keidsondesigner/keidsondesigner" data-noaft="1" style="width: 617px; height: 365.572px; margin: 0px;"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Até+a+próxima!!!!)](https://git.io/typing-svg)
+
