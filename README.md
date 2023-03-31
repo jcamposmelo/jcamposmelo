@@ -1,4 +1,5 @@
-![25102927915124](https://user-images.githubusercontent.com/101723959/229225668-983fe497-6e38-4ceb-a665-61283d4bff1e.gif) 
+![hello](https://user-images.githubusercontent.com/101723959/229228932-5aefea2a-82f6-45d9-a51a-252cd52a66fa.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=E+esse+eh+meu+mundo!)](https://git.io/typing-svg) 
