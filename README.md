@@ -84,3 +84,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Até+a+próxima!!!!)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=jcamposmelo-username&color=green)
