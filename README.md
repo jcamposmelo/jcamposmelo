@@ -1,9 +1,9 @@
 ![hello](https://user-images.githubusercontent.com/101723959/229228932-5aefea2a-82f6-45d9-a51a-252cd52a66fa.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=E+esse+eh+meu+mundo!)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Games!+Boardgames!+Tecnologia!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!.......................................)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos...................................)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=E+esse+eh+meu+mundo!....................................)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Games!+Boardgames!+Tecnologia!..........................)](https://git.io/typing-svg)
 
 <h1 align="center">Bora lá?</h1>
 <h2 align="center">Trabalho com análise, tratamento, conexão e relacionamento de dados</h2>
@@ -82,6 +82,6 @@
 
 <h1 align="center"><img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="GitHub - keidsondesigner/keidsondesigner" data-noaft="1" style="width: 617px; height: 365.572px; margin: 0px;"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Até+a+próxima!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Até+a+próxima!................................................)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=jcamposmelo-username&color=green)
