@@ -18,14 +18,21 @@
 
 - 📊 Trabalho com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
+![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
+
 - ⭐ No momento estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
+
+![java_kotlin_android](https://user-images.githubusercontent.com/101723959/229913845-3d051b8b-f248-4e72-83c8-7fec28f1df99.png)
 
 - 💬 Me pergunte sobre **Análise de dados, Data Warehouse, Excel, Power BI e SQL**
 
+![datawarehouse](https://user-images.githubusercontent.com/101723959/229914482-e756684a-4a84-4d7f-a460-c478e9f0ee2b.png)
 
 - ⚠ Sobre mim... 
 
   -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos trabalhos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+
+![financeiro](https://user-images.githubusercontent.com/101723959/229905168-b48c78e4-f114-4417-aaa8-b5ed89b0bd93.png) ![administração](https://user-images.githubusercontent.com/101723959/229905065-85d0c5a5-5947-4400-a0f7-73c5d5a7b336.png) ![análise de dados](https://user-images.githubusercontent.com/101723959/229908522-c73da8ab-09fc-4dae-b869-cff7141a2a18.png)
 
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
       -  ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
