@@ -23,7 +23,10 @@
 - 💬 Me pergunte sobre **Análise de dados, Data Warehouse, Power BI e SQL**
 
 
-- ⚠ Sobre mim... Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos trabalhos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+- ⚠ Sobre mim... 
+  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos trabalhos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+  -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
+  -  Em casa eu gosto de viver a vida em família.
 
 - 🔍 Vc me encontrará **nos links logo abaixo**
 
