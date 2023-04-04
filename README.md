@@ -20,13 +20,20 @@
 
 - ⭐ No momento estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
-- 💬 Me pergunte sobre **Análise de dados, Data Warehouse, Power BI e SQL**
+- 💬 Me pergunte sobre **Análise de dados, Data Warehouse, Excel, Power BI e SQL**
 
 
 - ⚠ Sobre mim... 
+
   -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos trabalhos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
-  -  Em casa eu gosto de viver a vida em família.
+      -  ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
+
+  -  Em casa eu gosto de viver a vida em família, escutando música, assistindo a filmes e séries.
+      - ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white) ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?logo=amazon%20fire%20tv&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?logo=shazam&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
+
+
 
 - 🔍 Vc me encontrará **nos links logo abaixo**
 
