@@ -16,6 +16,8 @@
 <h2 align="center">Trabalho com análise, tratamento, conexão e relacionamento de dados</h2>
 <h3 align="center">Atualmente estou trabalhando em alguns projetos para desenvolvimento mobile</h3>
 
+![standard2](https://user-images.githubusercontent.com/101723959/230204266-2d4bea27-adb5-4afb-8cbd-ba0794e0219a.gif)
+
 ###
 
 
