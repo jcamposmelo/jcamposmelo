@@ -1,5 +1,4 @@
 ![standard](https://user-images.githubusercontent.com/101723959/230114933-e79a70c5-703a-419c-be9d-69816487e992.gif)
-![hello](https://user-images.githubusercontent.com/101723959/229228932-5aefea2a-82f6-45d9-a51a-252cd52a66fa.gif)
 
 ![](https://komarev.com/ghpvc/?username=jcamposmelo-username&color=green)
 
