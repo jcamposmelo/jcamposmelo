@@ -27,7 +27,7 @@
 
 ![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
 
-- ⭐ No atual momento, estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻 para assim ingressar ná área de desenvolvimento mobile.
+- ⭐ No atual momento, estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻 para assim ingressar na área de desenvolvimento mobile.
 
 ![java_kotlin_android](https://user-images.githubusercontent.com/101723959/229913845-3d051b8b-f248-4e72-83c8-7fec28f1df99.png)
 
