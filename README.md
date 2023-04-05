@@ -1,3 +1,6 @@
+![standard](https://user-images.githubusercontent.com/101723959/230114933-e79a70c5-703a-419c-be9d-69816487e992.gif)
+
+
 ![hello](https://user-images.githubusercontent.com/101723959/229228932-5aefea2a-82f6-45d9-a51a-252cd52a66fa.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!.......................................)](https://git.io/typing-svg)
@@ -30,7 +33,7 @@
 
 - ⚠ Sobre mim... 
 
-  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos trabalhos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos estudos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
 
 ![financeiro2](https://user-images.githubusercontent.com/101723959/229926833-fad9a893-480d-4fbe-8184-9d2cdbef2f2c.png)
 
@@ -77,7 +80,6 @@
 </div>
 
 ##
-
 
 <h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
 
