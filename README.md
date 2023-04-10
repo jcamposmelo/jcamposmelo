@@ -62,7 +62,7 @@
   
 - ⚠ Sobre mim... 
 
-  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos estudos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, produzibdo diversos estudos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
 
 <div align="center">
   
