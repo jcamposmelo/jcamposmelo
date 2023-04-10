@@ -138,10 +138,19 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&utcOffset=-3)
   
-    </div>
+</div>
 
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=jcamposmelo&theme=prussian&hide_border=true)
 
