@@ -1,7 +1,14 @@
-![standard](https://user-images.githubusercontent.com/101723959/230114933-e79a70c5-703a-419c-be9d-69816487e992.gif)
+<div align="center">
+  
+  ![standard](https://user-images.githubusercontent.com/101723959/230114933-e79a70c5-703a-419c-be9d-69816487e992.gif)
+  
+</div>
 
-![](https://komarev.com/ghpvc/?username=jcamposmelo-username&color=green)
+<div align="center">
 
+  ![](https://komarev.com/ghpvc/?username=jcamposmelo-username&color=green)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sejam+bem+vindos!.......................................)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Jorge+Campos...................................)](https://git.io/typing-svg) 
@@ -27,21 +34,37 @@
 
 - 📊 Trabalho com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
 
-![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
+<div align="center">
+  
+  ![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
+  
+</div>
 
 - ⭐ No atual momento, estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻 para assim ingressar na área de desenvolvimento mobile.
 
+<div align="center">
+  
 ![java_kotlin_android](https://user-images.githubusercontent.com/101723959/229913845-3d051b8b-f248-4e72-83c8-7fec28f1df99.png)
+  
+</div>
 
 - 💬 Me pergunte sobre:
 
-![datawarehouse](https://user-images.githubusercontent.com/101723959/229914482-e756684a-4a84-4d7f-a460-c478e9f0ee2b.png)
-
+<div align="center">
+  
+  ![datawarehouse](https://user-images.githubusercontent.com/101723959/229914482-e756684a-4a84-4d7f-a460-c478e9f0ee2b.png)
+  
+</div>
+  
 - ⚠ Sobre mim... 
 
   -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, desenvolvendo diversos estudos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
 
-![financeiro2](https://user-images.githubusercontent.com/101723959/229926833-fad9a893-480d-4fbe-8184-9d2cdbef2f2c.png)
+<div align="center">
+  
+  ![financeiro2](https://user-images.githubusercontent.com/101723959/229926833-fad9a893-480d-4fbe-8184-9d2cdbef2f2c.png)
+  
+</div>
 
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
       -  ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
@@ -105,7 +128,18 @@
 
 ## 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&utcOffset=-3)
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
+  </div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&utcOffset=-3)
+  
+    </div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
