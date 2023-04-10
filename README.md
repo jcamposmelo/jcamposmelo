@@ -85,7 +85,7 @@
   <img align="center" alt="jcamposmelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
 
-##
+
 
 <h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
 
@@ -97,7 +97,11 @@
 - [ ] Aprender outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
-<h1 align="center"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752"></h1>
+<div align="center">
+  
+![large](https://user-images.githubusercontent.com/101723959/230805185-bc4103e2-1470-4fdf-9b79-07d5373a282d.png)
+
+</div>
 
 ## 📊 GitHub Stats:
 
