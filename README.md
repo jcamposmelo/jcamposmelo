@@ -68,12 +68,21 @@
 </div>
 
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
-      -  ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
+
+<div align="center">
+
+![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
+  
+  </div>
+
 
   -  Em casa eu gosto de viver a vida em família, escutando música, assistindo a filmes e séries.
-      - ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white) ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?logo=amazon%20fire%20tv&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?logo=shazam&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
 
+<div align="center">
 
+![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white) ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?logo=amazon%20fire%20tv&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?logo=shazam&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
+
+  </div>
 
 - 🔍 Vc me encontrará **nos links logo abaixo**
 
@@ -81,22 +90,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<div align="center">
 
-  <p align="left"> <a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /></a> </p>
-
-<p align="left"> <a href="https://instagram.com/jcamposmelo_23" target="blank"><img src="https://img.shields.io/twitter/follow/jcamposmelo_23?logo=instagram&style=for-the-badge" alt="jcamposmelo_23" /></a> </p>
-
-<p align="left"> <a href="https://facebook.com/jorgecamposfotografia" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" /></a> </p>
-
-<p align="left"> <a href="https://linkedin.com/in/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /></a> </p>
-
-<p align="left"> <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" /></a> </p>
+<a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /> <a href="https://instagram.com/jcamposmelo_23" target="blank"><img src="https://img.shields.io/twitter/follow/jcamposmelo_23?logo=instagram&style=for-the-badge" alt="jcamposmelo_23" /> <a href="https://facebook.com/jorgecamposfotografia" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" /> <a href="https://linkedin.com/in/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /> <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" />
+  
+   </div>
 
 ---
 
 <h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO 💻</h1>
 
 <div style="display: inline_block"><br>
+  
+  <div align="center">
+
    <img align="center" alt="jcamposmelo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="jcamposmelo-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="jcamposmelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
@@ -108,6 +116,8 @@
   <img align="center" alt="jcamposmelo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="jcamposmelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
+     </div>
+
 
 <h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
 
