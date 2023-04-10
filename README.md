@@ -29,10 +29,7 @@
 
 </div>
 
-###
-
-
-###
+---
 
 - 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2023/2 🎉🎉🎉
 
@@ -95,7 +92,7 @@
 
 <p align="left"> <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" /></a> </p>
 
-##
+---
 
 <h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO 💻</h1>
 
@@ -112,8 +109,6 @@
   <img align="center" alt="jcamposmelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
 
-
-
 <h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
 
 - [x] Aprimorar a lógica e entendimento dos algoritmos
@@ -123,7 +118,6 @@
 - [ ] Desenvolver meu primeiro app em Android usando Kotlin
 - [ ] Aprender outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
-
 
 ## 📊 GitHub Stats:
 
