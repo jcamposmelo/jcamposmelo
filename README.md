@@ -29,6 +29,16 @@
 
 </div>
 
+                                                      
+                                                      Inicio
+                                                        Se (procuroEmpregoDev = sim) entao
+                                                          Escreva ( "Sigo firme na busca!")
+                                                        senao
+                                                          Escreva ( "FELIZ DA VIDA!!!")
+                                                        FimSe
+                                                      FimAlgoritmo
+
+                                                      
 ---
 
 - 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2023/2 🎉🎉🎉
