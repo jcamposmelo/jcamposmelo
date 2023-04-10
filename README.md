@@ -23,7 +23,11 @@
 <h2 align="center">Trabalho com análise, tratamento, conexão e relacionamento de dados</h2>
 <h3 align="center">Atualmente estou trabalhando em alguns projetos para desenvolvimento mobile</h3>
 
-![standard2](https://user-images.githubusercontent.com/101723959/230204266-2d4bea27-adb5-4afb-8cbd-ba0794e0219a.gif)
+<div align="center">
+  
+![large](https://user-images.githubusercontent.com/101723959/230805185-bc4103e2-1470-4fdf-9b79-07d5373a282d.png)
+
+</div>
 
 ###
 
@@ -120,11 +124,6 @@
 - [ ] Aprender outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
-<div align="center">
-  
-![large](https://user-images.githubusercontent.com/101723959/230805185-bc4103e2-1470-4fdf-9b79-07d5373a282d.png)
-
-</div>
 
 ## 📊 GitHub Stats:
 
