@@ -30,13 +30,13 @@
 </div>
 
                                                       
-                                                      Inicio
-                                                        Se (procuroEmpregoDev = sim) entao
-                                                          Escreva ( "Sigo firme na busca!")
-                                                        senao
-                                                          Escreva ( "FELIZ DA VIDA!!!")
-                                                        FimSe
-                                                      FimAlgoritmo
+                                                  Inicio
+                                                    Se (procuroEmpregoDev = sim) entao
+                                                      Escreva ( "Sigo firme na busca!")
+                                                    senao
+                                                      Escreva ( "FELIZ DA VIDA!!!")
+                                                    FimSe
+                                                  FimAlgoritmo
 
                                                       
 ---
