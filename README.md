@@ -147,8 +147,8 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
-  </div>
-
+</div>
+  
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcamposmelo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&utcOffset=-3)
