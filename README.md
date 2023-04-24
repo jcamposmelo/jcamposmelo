@@ -96,12 +96,8 @@
 
   </div>
 
-- 🔍 Vc me encontrará **nos links logo abaixo**
 
-## 🌐 Socials:
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 **Connect with me**:
   
 <div align="center">
   
@@ -123,7 +119,7 @@
    
 ---
 
-<h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO 💻</h1>
+<h1 align="center"> TECNOLOGIAS EM DESENVOLVIMENTO 💻</h1>
 
 <div style="display: inline_block"><br>
   
@@ -147,10 +143,10 @@
 
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
-- [x] Entender a mecânica do Android Studio
+- [x] Desenvolver no Android Studio
 - [x] Desenvolver em JAVA
-- [ ] Desenvolver meu primeiro app em Android usando Kotlin
-- [ ] Aprender outras linguagens e frameworks
+- [ ] Desenvolver em Kotlin
+- [ ] Utilizar outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ## 📊 GitHub Stats:
