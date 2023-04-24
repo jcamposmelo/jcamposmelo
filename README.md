@@ -86,7 +86,7 @@
   </div>
 
 
-## 🌐 **Connect with me**:
+## 🌐 **Conecte-se comigo em**:
   
 <div align="center">
   
@@ -146,7 +146,7 @@
 - [ ] Utilizar outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
-## 📊 GitHub Stats:
+## 📊 GitHub Estatísticas:
 
 <div align="center">
   
