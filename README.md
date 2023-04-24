@@ -105,10 +105,24 @@
   
 <div align="center">
 
-<a href="https://twitter.com/jorge_campos23" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_campos23?logo=twitter&style=for-the-badge" alt="jorge_campos23" /> <a href="https://instagram.com/jcamposmelo_23" target="blank"><img src="https://img.shields.io/twitter/follow/jcamposmelo_23?logo=instagram&style=for-the-badge" alt="jcamposmelo_23" /> <a href="https://facebook.com/jorgecamposfotografia" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" /> <a href="https://linkedin.com/in/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/campos-jorge?logo=linkedin&style=for-the-badge" alt="campos-jorge" /> <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" />
+<a href="" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" />  <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" />
   
    </div>
 
+  <p align="center">
+  <a href= "https://twitter.com/jorge_campos23/">
+    <img src="https://user-images.githubusercontent.com/101723959/233874645-8f4aa02b-4d87-4063-be89-5a441fa47ee2.png"/>
+  </a>
+  <a href= "https://linkedin.com/in/campos-jorge">
+    <img src="https://user-images.githubusercontent.com/101723959/233874864-46c43f1d-b314-4b98-8c5f-bab6c67b41ce.png"/>
+  </a>
+  <a href= "https://instagram.com/jcamposmelo_23">
+    <img src="https://user-images.githubusercontent.com/101723959/233874778-d55257c0-f126-4f8c-af54-250b99901c7b.png"/>
+  </a>
+  <a href= "https://facebook.com/jorgecamposfotografia">
+    <img src="https://user-images.githubusercontent.com/101723959/233874988-a4b52507-5361-460b-9db6-add27557f408.png"/>
+  </a>
+   
 ---
 
 <h1 align="center"> TECNOLOGIAS APRENDIDAS OU EM DESENVOLVIMENTO 💻</h1>
