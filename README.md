@@ -105,8 +105,13 @@
   <a href= "https://facebook.com/jorgecamposfotografia">
     <img src="https://user-images.githubusercontent.com/101723959/233874988-a4b52507-5361-460b-9db6-add27557f408.png"/>
   </a>
-   
----
+  <a href= "https://www.youtube.com/channel/UCI6yMVF7Rwmz4LfJO0p25Aw">
+    <img src="https://user-images.githubusercontent.com/101723959/233876637-a84ffc11-86f7-4b00-a471-01f092dcd3ed.png"/>
+  </a>
+  <a href= "https://app.powerbi.com/groups/me/list?redirectedFromSignup=1">
+    <img src="https://user-images.githubusercontent.com/101723959/233876343-8fedd823-8947-45b7-87a3-fdcef37e9dff.png"/>
+  </a> 
+
 
 <h1 align="center"> TECNOLOGIAS EM DESENVOLVIMENTO 💻</h1>
 
