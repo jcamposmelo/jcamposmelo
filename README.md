@@ -104,8 +104,6 @@
 <p align="left">
   
 <div align="center">
-
-<a href="" target="blank"><img src="https://img.shields.io/twitter/follow/jorgecamposfotografia?logo=facebook&style=for-the-badge" alt="jorgecamposfotografia" />  <a href="https://mail.google.com/campos-jorge" target="blank"><img src="https://img.shields.io/twitter/follow/jdcamposmelo@gmail.com?logo=gmail&style=for-the-badge" alt="jdcamposmelo" />
   
    </div>
 
