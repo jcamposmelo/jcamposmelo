@@ -119,16 +119,19 @@
   
   <div align="center">
 
-   <img align="center" alt="jcamposmelo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="jcamposmelo-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="jcamposmelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="jcamposmelo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="jcamposmelo-Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="jcamposmelo-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="jcamposmelo-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="jcamposmelo-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="jcamposmelo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="jcamposmelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+   <img align="center" alt="jcamposmelo-MySQL" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233878718-64639607-33c6-495b-9093-5c4d1527d436.png">
+    <img align="center" alt="jcamposmelo-Android" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233878828-ff87dab2-e65c-49e4-a907-21630af766c1.png">
+  <img align="center" alt="jcamposmelo-AndroidStudio" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879419-102a9099-9c13-4d60-b336-9303d2ee131d.png">
+  <img align="center" alt="jcamposmelo-Kotlin" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879740-b51fe2a1-5119-4004-886d-a07881b6cbad.png">
+  <img align="center" alt="jcamposmelo-Java" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879833-ec0effa1-f782-4a03-9408-3381b4006572.png">
+  <img align="center" alt="jcamposmelo-Java Script" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879878-cccc348b-f286-488d-8104-761ceacad836.png">
+  <img align="center" alt="jcamposmelo-Html5" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879916-12ceb7be-8966-4691-b780-859757a7ad2d.png">
+  <img align="center" alt="jcamposmelo-Css3" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879993-86064d30-0a29-483f-a777-3db46a2e9bfc.png">
+  <img align="center" alt="jcamposmelo-Intellij" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880034-cc0940d9-43b5-44ca-a45e-5cdf15807484.png">
+  <img align="center" alt="jcamposmelo-Git" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880068-debd83e1-3952-4484-b8b7-01ba380509c8.png">
+  <img align="center" alt="jcamposmelo-Photoshop" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880114-2f43e60e-0b32-454d-bd1f-6f9b51e53f77.png">
+    <img align="center" alt="jcamposmelo-Pr" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880203-5e5d2448-3e9a-43da-9b25-9129a9d1ed2e.png">
+    <img align="center" alt="jcamposmelo-Figma" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880271-582c99ed-dd38-4636-b1a0-9636caae7c46.png">
 </div>
      </div>
 
