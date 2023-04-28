@@ -25,8 +25,10 @@
 
 <div align="center">
   
-![large](https://user-images.githubusercontent.com/101723959/230805185-bc4103e2-1470-4fdf-9b79-07d5373a282d.png)
-
+![small](https://user-images.githubusercontent.com/101723959/230805185-bc4103e2-1470-4fdf-9b79-07d5373a282d.png)
+  
+  ![giphy](https://user-images.githubusercontent.com/101723959/235163812-b2838816-b58b-471e-bbe6-1d7b3af72253.gif)
+  
 </div>
 
 
