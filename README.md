@@ -194,6 +194,8 @@
 <div align="center">
 
 ![Imagem1](https://user-images.githubusercontent.com/101723959/232342622-6781fd8e-8f44-4c74-aa7a-5fa9495a7beb.png)
+  ![giphy7](https://user-images.githubusercontent.com/101723959/235170259-92012390-4b3a-41de-b119-8a94d4b04688.gif)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Até+a+próxima!................................................)](https://git.io/typing-svg)
 
