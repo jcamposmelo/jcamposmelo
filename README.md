@@ -42,7 +42,6 @@
   
   ![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
   
-  ![giphy2](https://user-images.githubusercontent.com/101723959/235165860-ecc0e8ed-0285-479a-8c5d-9e0d5d20ecdd.gif)
     
 </div>
 
@@ -58,7 +57,8 @@
 
 <div align="center">
   
-![giphy5](https://user-images.githubusercontent.com/101723959/235169079-b25ad97d-9353-494f-a087-14758d60dda0.gif)
+![giphy5](https://user-images.githubusercontent.com/101723959/235169079-b25ad97d-9353-494f-a087-14758d60dda0.gif)  ![giphy2](https://user-images.githubusercontent.com/101723959/235165860-ecc0e8ed-0285-479a-8c5d-9e0d5d20ecdd.gif)
+
   
 </div>
   
