@@ -54,13 +54,8 @@
 </div>
 
 - 💬 Me pergunte sobre:
-
-<div align="center">
   
 ![giphy5](https://user-images.githubusercontent.com/101723959/235169079-b25ad97d-9353-494f-a087-14758d60dda0.gif)  ![giphy2](https://user-images.githubusercontent.com/101723959/235165860-ecc0e8ed-0285-479a-8c5d-9e0d5d20ecdd.gif)
-
-  
-</div>
   
 - ⚠ Sobre mim... 
 
