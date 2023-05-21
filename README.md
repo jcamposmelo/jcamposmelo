@@ -131,6 +131,8 @@
   <img align="center" alt="jcamposmelo-Photoshop" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880114-2f43e60e-0b32-454d-bd1f-6f9b51e53f77.png">
     <img align="center" alt="jcamposmelo-Pr" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880203-5e5d2448-3e9a-43da-9b25-9129a9d1ed2e.png">
     <img align="center" alt="jcamposmelo-Figma" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880271-582c99ed-dd38-4636-b1a0-9636caae7c46.png">
+    <img align="center" alt="jcamposmelo-Python" height="48" width="48" src="https://github.com/jcamposmelo/jcamposmelo/assets/101723959/5914685c-b1be-4694-b659-0dc212da6dda">
+
 </div>
      </div>
 
