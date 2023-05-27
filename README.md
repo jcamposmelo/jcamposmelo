@@ -141,8 +141,10 @@
 
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
-- [x] Desenvolver no Android Studio
+- [x] Aprender Programação Orientada a Objetos 
+- [x] Desenvolver me Python
 - [x] Desenvolver em JAVA
+- [ ] Desenvolver no Android Studio
 - [ ] Desenvolver em Kotlin
 - [ ] Utilizar outras linguagens e frameworks
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
