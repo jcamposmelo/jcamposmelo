@@ -144,7 +144,7 @@
 - [x] Aprender Programação Orientada a Objetos 
 - [x] Desenvolver me Python
 - [x] Desenvolver em JAVA
-- [x] DEsenvolver em PHP
+- [x] Desenvolver em PHP
 - [ ] Desenvolver no Android Studio
 - [ ] Desenvolver em Kotlin
 - [ ] Utilizar outras linguagens e frameworks
