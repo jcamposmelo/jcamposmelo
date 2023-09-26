@@ -145,9 +145,9 @@
 - [x] Desenvolver me Python
 - [x] Desenvolver em JAVA
 - [x] Desenvolver em PHP
-- [ ] Desenvolver no Android Studio
-- [ ] Desenvolver em Kotlin
-- [ ] Utilizar outras linguagens e frameworks
+- [x] Desenvolver no Android Studio
+- [x] Desenvolver em Kotlin
+- [x] Utilizar o Jetpack Compose
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ## 📊 GitHub Estatísticas:
