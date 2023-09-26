@@ -142,9 +142,9 @@
 - [x] Aprimorar a lógica e entendimento dos algoritmos
 - [x] Aprender os princípios do Android
 - [x] Aprender Programação Orientada a Objetos 
-- [x] Desenvolver me Python
-- [x] Desenvolver em JAVA
-- [x] Desenvolver em PHP
+- [x] Aprender Python
+- [x] Aprender JAVA e POO
+- [x] Aprender PHP
 - [x] Desenvolver no Android Studio
 - [x] Desenvolver em Kotlin
 - [x] Utilizar o Jetpack Compose
