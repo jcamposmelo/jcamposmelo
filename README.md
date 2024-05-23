@@ -21,7 +21,8 @@
 
 <h1 align="center">Bora lá?</h1>
 <h2 align="center">Desenvolvimento Front-End</h2>
-<h3 align="center">Atualmente estou trabalhando em alguns projetos solo. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.</h3>
+<h3 align="center">Atualmente estou trabalhando em alguns projetos solo.</h3> 
+<h3 align="center">A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.</h3>
 
 <div align="center">
   
@@ -52,11 +53,11 @@ SOLID: é um acrônimo que representa cinco princípios de design em programaç�
   
 - ⚠ Sobre mim... 
 
-  -  Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
+   ⭐ Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
 
-  -  De 2022 pra cá, iniciei e finalizei alguns projetos freelance, que podem ser acessados no meu GitHub, ao qual utilizo as linguagens PHP, JavaScript, HTML e CSS, com intuido de desenvolver aplicações web, com foco no front-end. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.
+   ⭐ De 2022 pra cá, iniciei e finalizei alguns projetos freelance, que podem ser acessados no meu GitHub, ao qual utilizo as linguagens PHP, JavaScript, HTML e CSS, com intuido de desenvolver aplicações web, com foco no front-end. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.
 
-  -  Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
+   ⭐ Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
 
 e-mail: jcamposmelo@yahoo.com.br
 Linkedin: https://www.linkedin.com/in/campos-jorge/
@@ -80,27 +81,9 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
 
 ## 🌐 **Conecte-se comigo em**:
   
-<div align="center">
-  
-   </div>
-
-  <p align="center">
-  <a href= "https://twitter.com/jorge_campos23/">
-    <img src="https://user-images.githubusercontent.com/101723959/233874645-8f4aa02b-4d87-4063-be89-5a441fa47ee2.png"/>
-  </a>
-  <a href= "https://linkedin.com/in/campos-jorge">
-    <img src="https://user-images.githubusercontent.com/101723959/233874864-46c43f1d-b314-4b98-8c5f-bab6c67b41ce.png"/>
-  </a>
-  <a href= "https://instagram.com/jcamposmelo_23">
-    <img src="https://user-images.githubusercontent.com/101723959/233874778-d55257c0-f126-4f8c-af54-250b99901c7b.png"/>
-  </a>
-  <a href= "https://facebook.com/jorgecamposfotografia">
-    <img src="https://user-images.githubusercontent.com/101723959/233874988-a4b52507-5361-460b-9db6-add27557f408.png"/>
-  </a>
-  <a href= "https://www.youtube.com/channel/UCI6yMVF7Rwmz4LfJO0p25Aw">
-    <img src="https://user-images.githubusercontent.com/101723959/233876637-a84ffc11-86f7-4b00-a471-01f092dcd3ed.png"/>
-  </a>
-  </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/campos-jorge)](https://linkedin.com/in/campos-jorge)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://instagram.com/jcamposmelo_23)](https://instagram.com/jcamposmelo_23)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/jorge_campos23/)](https://twitter.com/jorge_campos23/)
   
 <h1 align="center"> TECNOLOGIAS FRONT-END MAIS UTILIZADAS 💻</h1>
 
