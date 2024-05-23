@@ -34,15 +34,21 @@
 
 ---
 
-- 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2024/1 🎉🎉🎉
+- 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2024/1 🎉
 
-- 📊 Trabalho com **Desenvolvimento web como foco no Front-End, em breve com aplicações no servidor**
+- 📊 Trabalho com **Desenvolvimento web como foco no Front-End, em breve com aplicações no servidor** 💻
 
 - ⭐ No atual momento, estou estudando **Boas práticas em Node.js com TypeScript** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
 - 💬 Me pergunte sobre:
   
-![giphy5](https://user-images.githubusercontent.com/101723959/235169079-b25ad97d-9353-494f-a087-14758d60dda0.gif) ![giphy2](https://user-images.githubusercontent.com/101723959/235165860-ecc0e8ed-0285-479a-8c5d-9e0d5d20ecdd.gif)
+SOLID: é um acrônimo que representa cinco princípios de design em programação orientada a objetos que visam criar sistemas mais flexíveis, extensíveis e fáceis de manter. Cada letra corresponde a um princípio específico:
+
+- S (Single Responsibility Principle - Princípio da Responsabilidade Única): Cada classe deve ter uma única razão para sofrer modificações, ou seja, deve ter uma única responsabilidade. Responsabilidades diferentes devem ser separadas em módulos diferentes.
+- O (Open/Closed Principle - Princípio Aberto/Fechado): As entidades de software (classes, módulos, etc.) devem ser abertas para extensão, mas fechadas para modificação. Isso promove a adição de novas funcionalidades sem alterar o código existente.
+- L (Liskov Substitution Principle - Princípio da Substituição de Liskov): As instâncias de uma classe derivada devem ser substituíveis pelas instâncias da classe base sem afetar a integridade do sistema.
+- I (Interface Segregation Principle - Princípio da Segregação de Interfaces): Clientes não devem ser forçados a depender de interfaces que eles não usam. Em outras palavras, as interfaces devem ser específicas para as necessidades dos clientes.
+- D (Dependency Inversion Principle - Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas detalhes devem depender de abstrações. Promove a modularidade e facilita a manutenção do código. Ajuda a evitar acoplamento excessivo e torna os sistemas mais flexíveis para mudanças.
   
 - ⚠ Sobre mim... 
 
@@ -94,11 +100,8 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
   <a href= "https://www.youtube.com/channel/UCI6yMVF7Rwmz4LfJO0p25Aw">
     <img src="https://user-images.githubusercontent.com/101723959/233876637-a84ffc11-86f7-4b00-a471-01f092dcd3ed.png"/>
   </a>
-  <a href= "https://app.powerbi.com/groups/me/list?redirectedFromSignup=1">
-    <img src="https://user-images.githubusercontent.com/101723959/233876343-8fedd823-8947-45b7-87a3-fdcef37e9dff.png"/>
-  </a> 
-
-
+  </p>
+  
 <h1 align="center"> TECNOLOGIAS EM DESENVOLVIMENTO 💻</h1>
 
 <div style="display: inline_block"><br>
