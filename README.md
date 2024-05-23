@@ -102,18 +102,19 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
   </a>
   </p>
   
-<h1 align="center"> TECNOLOGIAS EM DESENVOLVIMENTO 💻</h1>
+<h1 align="center"> TECNOLOGIAS FRONT-END MAIS UTILIZADAS 💻</h1>
 
 <div style="display: inline_block"><br>
   
   <div align="center">
 
-   <img align="center" alt="jcamposmelo-MySQL" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233878718-64639607-33c6-495b-9093-5c4d1527d436.png">
-      <img align="center" alt="jcamposmelo-Java Script" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879878-cccc348b-f286-488d-8104-761ceacad836.png">
-  <img align="center" alt="jcamposmelo-Html5" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879916-12ceb7be-8966-4691-b780-859757a7ad2d.png">
-  <img align="center" alt="jcamposmelo-Css3" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879993-86064d30-0a29-483f-a777-3db46a2e9bfc.png">
-  <img align="center" alt="jcamposmelo-Git" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880068-debd83e1-3952-4484-b8b7-01ba380509c8.png">
-    <img align="center" alt="jcamposmelo-Figma" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880271-582c99ed-dd38-4636-b1a0-9636caae7c46.png">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
 </div>
      </div>
 
