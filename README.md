@@ -59,8 +59,10 @@ SOLID: é um acrônimo que representa cinco princípios de design em programaç�
 
    ⭐ Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
 
-e-mail: jcamposmelo@yahoo.com.br
-Linkedin: https://www.linkedin.com/in/campos-jorge/
+<div align="center"> E-mail: jcamposmelo@yahoo.com.br</div>
+<div align="center"> Linkedin: https://www.linkedin.com/in/campos-jorge/</div>
+
+##
 
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
 
@@ -68,7 +70,7 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white) ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
   
-  </div>
+</div>
 
 
   -  Em casa eu gosto de viver a vida em família, escutando música, assistindo a filmes e séries.
@@ -77,14 +79,18 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
 
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white) ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?logo=amazon%20fire%20tv&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?logo=shazam&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
 
-  </div>
+</div>
 
 ## 🌐 **Conecte-se comigo em**:
+
+<div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/campos-jorge)](https://linkedin.com/in/campos-jorge)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://instagram.com/jcamposmelo_23)](https://instagram.com/jcamposmelo_23)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/jorge_campos23/)](https://twitter.com/jorge_campos23/)
-  
+
+</div>
+
 <h1 align="center"> TECNOLOGIAS FRONT-END MAIS UTILIZADAS 💻</h1>
 
 <div style="display: inline_block"><br>
