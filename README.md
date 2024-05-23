@@ -124,6 +124,7 @@ Linkedin: https://www.linkedin.com/in/campos-jorge/
 - [x] Versionamento GIT
 - [x] CSS3 and HTML5 
 - [x] JavaScript
+- [x] PHP
 - [x] Bootstrap
 - [x] React.js
 - [x] Vue.js
