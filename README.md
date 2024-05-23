@@ -20,8 +20,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+developer!......................................)](https://git.io/typing-svg)
 
 <h1 align="center">Bora lá?</h1>
-<h2 align="center">Trabalho com análise, tratamento, conexão e relacionamento de dados</h2>
-<h3 align="center">Atualmente estou trabalhando em alguns projetos para desenvolvimento mobile</h3>
+<h2 align="center">Desenvolvimento Front-End</h2>
+<h3 align="center">Atualmente estou trabalhando em alguns projetos solo. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.</h3>
 
 <div align="center">
   
@@ -34,24 +34,11 @@
 
 ---
 
-- 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2023/2 🎉🎉🎉
+- 💻 Estou estudando **Análise e Desenvolvimento de Sistemas** na [UNIASSELVI](https://portal.uniasselvi.com.br/ "UNIASSELVI") :mortar_board:, com previsão de formatura para 2024/1 🎉🎉🎉
 
-- 📊 Trabalho com **Análise de dados via Power BI e Excel com elaboração de Dashboards interativos**
+- 📊 Trabalho com **Desenvolvimento web como foco no Front-End, em breve com aplicações no servidor**
 
-<div align="center">
-  
-  ![análise de dados3](https://user-images.githubusercontent.com/101723959/229912374-bd6042c6-5c29-400e-9e53-048a89d101db.png)
-  
-    
-</div>
-
-- ⭐ No atual momento, estou estudando **JAVA com Orientação a Objetos e Kotlin para desenvolvimento em Android** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻 para assim ingressar na área de desenvolvimento mobile.
-
-<div align="center">
-  
-![java_kotlin_android](https://user-images.githubusercontent.com/101723959/229913845-3d051b8b-f248-4e72-83c8-7fec28f1df99.png)
-  
-</div>
+- ⭐ No atual momento, estou estudando **Boas práticas em Node.js com TypeScript** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
 - 💬 Me pergunte sobre:
   
@@ -59,13 +46,14 @@
   
 - ⚠ Sobre mim... 
 
-  -  Possuo sólida experiência nas áreas Financeira e Administrativa, em empresas de pequeno, médio e grande porte de diversos segmentos. Desenvolvi trabalhos que contribuíram para o crescimento e equilíbrio de suas contas, produzindo diversos estudos baseados em dados estatísticos com o objetivo de evidenciar a situação do negócio a partir da análise de aspectos como índices da estrutura patrimonial, índices de liquidez, índices de atividade e índices de rentabilidade. 
+  -  Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
 
-<div align="center">
-  
-  ![financeiro2](https://user-images.githubusercontent.com/101723959/229926833-fad9a893-480d-4fbe-8184-9d2cdbef2f2c.png)
-  
-</div>
+  -  De 2022 pra cá, iniciei e finalizei alguns projetos freelance, que podem ser acessados no meu GitHub, ao qual utilizo as linguagens PHP, JavaScript, HTML e CSS, com intuido de desenvolver aplicações web, com foco no front-end. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.
+
+  -  Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
+
+e-mail: jcamposmelo@yahoo.com.br
+Linkedin: https://www.linkedin.com/in/campos-jorge/
 
   -  Nas horas vagas eu gosto de me divertir jogando boardgames, videogames e procuro sempre fazer algum tipo de atividade física.
 
@@ -83,7 +71,6 @@
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white) ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?logo=amazon%20fire%20tv&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) ![Shazam](https://img.shields.io/badge/shazam-1476FE?logo=shazam&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
 
   </div>
-
 
 ## 🌐 **Conecte-se comigo em**:
   
@@ -119,35 +106,26 @@
   <div align="center">
 
    <img align="center" alt="jcamposmelo-MySQL" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233878718-64639607-33c6-495b-9093-5c4d1527d436.png">
-    <img align="center" alt="jcamposmelo-Android" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233878828-ff87dab2-e65c-49e4-a907-21630af766c1.png">
-  <img align="center" alt="jcamposmelo-AndroidStudio" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879419-102a9099-9c13-4d60-b336-9303d2ee131d.png">
-  <img align="center" alt="jcamposmelo-Kotlin" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879740-b51fe2a1-5119-4004-886d-a07881b6cbad.png">
-  <img align="center" alt="jcamposmelo-Java" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879833-ec0effa1-f782-4a03-9408-3381b4006572.png">
-  <img align="center" alt="jcamposmelo-Java Script" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879878-cccc348b-f286-488d-8104-761ceacad836.png">
+      <img align="center" alt="jcamposmelo-Java Script" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879878-cccc348b-f286-488d-8104-761ceacad836.png">
   <img align="center" alt="jcamposmelo-Html5" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879916-12ceb7be-8966-4691-b780-859757a7ad2d.png">
   <img align="center" alt="jcamposmelo-Css3" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233879993-86064d30-0a29-483f-a777-3db46a2e9bfc.png">
-  <img align="center" alt="jcamposmelo-Intellij" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880034-cc0940d9-43b5-44ca-a45e-5cdf15807484.png">
   <img align="center" alt="jcamposmelo-Git" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880068-debd83e1-3952-4484-b8b7-01ba380509c8.png">
-  <img align="center" alt="jcamposmelo-Photoshop" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880114-2f43e60e-0b32-454d-bd1f-6f9b51e53f77.png">
-    <img align="center" alt="jcamposmelo-Pr" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880203-5e5d2448-3e9a-43da-9b25-9129a9d1ed2e.png">
     <img align="center" alt="jcamposmelo-Figma" height="48" width="48" src="https://user-images.githubusercontent.com/101723959/233880271-582c99ed-dd38-4636-b1a0-9636caae7c46.png">
-    <img align="center" alt="jcamposmelo-Python" height="48" width="48" src="https://github.com/jcamposmelo/jcamposmelo/assets/101723959/5914685c-b1be-4694-b659-0dc212da6dda">
-
 </div>
      </div>
 
 
-<h1 align="center"> MINHAS METAS PARA 2023 🏆</h1>
+<h1 align="center"> MINHAS METAS PARA 2021/2024 🏆</h1>
 
-- [x] Aprimorar a lógica e entendimento dos algoritmos
-- [x] Aprender os princípios do Android
-- [x] Aprender Programação Orientada a Objetos 
-- [x] Aprender Python
-- [x] Aprender JAVA e POO
-- [x] Aprender PHP
-- [x] Desenvolver no Android Studio
-- [x] Desenvolver em Kotlin
-- [x] Utilizar o Jetpack Compose
+- [x] Fundamentos do UX
+- [x] Versionamento GIT
+- [x] CSS3 and HTML5 
+- [x] JavaScript
+- [x] Bootstrap
+- [x] React.js
+- [x] Vue.js
+- [x] Flexbox
+- [x] TypeScript
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ## 📊 GitHub Estatísticas:
