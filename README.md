@@ -108,18 +108,18 @@ SOLID: é um acrônimo que representa cinco princípios de design em programaç�
      </div>
 
 
-<h1 align="center"> MINHAS METAS PARA 2021/2024 🏆</h1>
+<h1 align="center"> MINHA CAMINHADA ATÉ AGORA 2021/2024 🏆</h1>
 
 - [x] Fundamentos do UX
 - [x] Versionamento GIT
 - [x] CSS3 and HTML5 
 - [x] JavaScript
 - [x] PHP
-- [x] Bootstrap
-- [x] React.js
-- [x] Vue.js
+- [ ] Bootstrap
+- [ ] React.js
+- [ ] Vue.js
 - [x] Flexbox
-- [x] TypeScript
+- [ ] TypeScript
 - [ ] Me formar em **Análise e Desenvolvimento de Sistemas** 💻
 
 ## 📊 GitHub Estatísticas:
