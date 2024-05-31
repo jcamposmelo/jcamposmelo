@@ -116,7 +116,7 @@ SOLID: é um acrônimo que representa cinco princípios de design em programaç�
 - [x] JavaScript
 - [x] PHP
 - [ ] Bootstrap
-- [ ] React.js
+- [x] React.js
 - [ ] Vue.js
 - [x] Flexbox
 - [ ] TypeScript
