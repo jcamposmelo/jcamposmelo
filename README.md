@@ -41,7 +41,7 @@
 - ⭐ No atual momento, estou estudando **Boas práticas em Node.js com TypeScript** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
 - 💬 Me pergunte sobre:
-  
+<div align="justify">  
 SOLID: é um acrônimo que representa cinco princípios de design em programação orientada a objetos que visam criar sistemas mais flexíveis, extensíveis e fáceis de manter. Cada letra corresponde a um princípio específico:
 
 - S (Single Responsibility Principle - Princípio da Responsabilidade Única): Cada classe deve ter uma única razão para sofrer modificações, ou seja, deve ter uma única responsabilidade. Responsabilidades diferentes devem ser separadas em módulos diferentes.
@@ -49,7 +49,7 @@ SOLID: é um acrônimo que representa cinco princípios de design em programaç�
 - L (Liskov Substitution Principle - Princípio da Substituição de Liskov): As instâncias de uma classe derivada devem ser substituíveis pelas instâncias da classe base sem afetar a integridade do sistema.
 - I (Interface Segregation Principle - Princípio da Segregação de Interfaces): Clientes não devem ser forçados a depender de interfaces que eles não usam. Em outras palavras, as interfaces devem ser específicas para as necessidades dos clientes.
 - D (Dependency Inversion Principle - Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas detalhes devem depender de abstrações. Promove a modularidade e facilita a manutenção do código. Ajuda a evitar acoplamento excessivo e torna os sistemas mais flexíveis para mudanças.
-  
+<div/>  
 - ⚠ Sobre mim... 
 
    ⭐ Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
