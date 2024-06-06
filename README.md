@@ -41,22 +41,32 @@
 - ⭐ No atual momento, estou estudando **Boas práticas em Node.js com TypeScript** :nerd_face: na [ALURA](https://www.alura.com.br/ "ALURA") 💻
 
 - 💬 Me pergunte sobre:
-<div align="justify">  
-SOLID: é um acrônimo que representa cinco princípios de design em programação orientada a objetos que visam criar sistemas mais flexíveis, extensíveis e fáceis de manter. Cada letra corresponde a um princípio específico:
 
-- S (Single Responsibility Principle - Princípio da Responsabilidade Única): Cada classe deve ter uma única razão para sofrer modificações, ou seja, deve ter uma única responsabilidade. Responsabilidades diferentes devem ser separadas em módulos diferentes.
-- O (Open/Closed Principle - Princípio Aberto/Fechado): As entidades de software (classes, módulos, etc.) devem ser abertas para extensão, mas fechadas para modificação. Isso promove a adição de novas funcionalidades sem alterar o código existente.
-- L (Liskov Substitution Principle - Princípio da Substituição de Liskov): As instâncias de uma classe derivada devem ser substituíveis pelas instâncias da classe base sem afetar a integridade do sistema.
-- I (Interface Segregation Principle - Princípio da Segregação de Interfaces): Clientes não devem ser forçados a depender de interfaces que eles não usam. Em outras palavras, as interfaces devem ser específicas para as necessidades dos clientes.
-- D (Dependency Inversion Principle - Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas detalhes devem depender de abstrações. Promove a modularidade e facilita a manutenção do código. Ajuda a evitar acoplamento excessivo e torna os sistemas mais flexíveis para mudanças.
+<div align="justify">  
+  
+    ⭐ Minhas Habilidades e Experiências;
+    
+    ⭐ Meus Interesses e Hobbies;
+    
+    ⭐ Meus Projetos e Contribuições;
+    
+    ⭐ Meus Objetivos e Aspirações;
+    
+    ⭐ Minhas Preferências e Estilos de Trabalho.
+  
 <div/>  
+
+<div align="justify">
+  
 - ⚠ Sobre mim... 
 
-   ⭐ Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
+⭐ Olá! Sejam bem-vindos. Me chamo jorge Campos e sou um Desenvolvedor Front-end em transição de carreira. Sou graduado em Gestão Financeira (2011) com especialização em Controladoria (2016). Atualmente estudo Análise e Desenvolvimento de Sistemas, com previsão de formatura para o 1º semestre de 2024. Realizei alguns cursos de formação, paralelo ao curso superior e atualmente estou finalizando o de desenvolvedor front-end na DevMedia, em parceria com o Ifood através do programa Potência Tech.
 
-   ⭐ De 2022 pra cá, iniciei e finalizei alguns projetos freelance, que podem ser acessados no meu GitHub, ao qual utilizo as linguagens PHP, JavaScript, HTML e CSS, com intuido de desenvolver aplicações web, com foco no front-end. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.
+⭐ De 2022 pra cá, iniciei e finalizei alguns projetos freelance, que podem ser acessados no meu GitHub, ao qual utilizo as linguagens PHP, JavaScript, HTML e CSS, com intuido de desenvolver aplicações web, com foco no front-end. A ideia é treinar, aprimorar e evoluir cada vez mais nas tecnologias e frameworks.
 
-   ⭐ Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
+⭐ Fique à vontade para entrar em contato comigo para discutir projetos, ideias ou para trocar experiências. Vamos criar algo incrível juntos! 🚀
+
+<div/>
 
 <div align="center"> E-mail: jcamposmelo@yahoo.com.br</div>
 <div align="center"> Linkedin: https://www.linkedin.com/in/campos-jorge/</div>
